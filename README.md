@@ -1,4 +1,4 @@
-#Project 2 - Rock, Paper, Scissors
+#Project 2 - Adam -  Rock, Paper, Scissors
 ![Imgur](http://i.imgur.com/Gpy0Lkw.jpg)
 
 
